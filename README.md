@@ -1,4 +1,4 @@
-# Hi, I'm Sharmin Akhter 👋
+# Hi, I'm Sharmin Akhter.
 
 **Machine Learning & Deep Learning Researcher | Bioinformatics | NLP & LLMs**
 
@@ -35,25 +35,27 @@ Research-driven professional with 5+ years of experience in machine learning, de
 ---
 
 ## 📄 Publications
-- **Comprehensive Performance Evaluation of Deep Learning Models for Optimizing Breast Cancer Classification on Mammogram Datasets**
-- **An Empirical Evaluation of Zero-Shot, Few-Shot, and Fine-Tuned Pretrained Language Models for Sentiment Analysis in Software Engineering**
-- **A Comprehensive Review of Datasets and Preprocessing Techniques in Deep Learning-Based Breast Cancer Classification**
-- **Respectful Social Engagement: Facebook Hate Speech Classification for Bengali Language**
-- **Three Accepted Paper 
-🔗 Google Scholar: https://scholar.google.com/citations?user=rHqGuCoAAAAJ
+- Comprehensive Performance Evaluation of Deep Learning Models for Optimizing Breast Cancer Classification on Mammogram Datasets  
+- An Empirical Evaluation of Zero-Shot, Few-Shot, and Fine-Tuned Pretrained Language Models for Sentiment Analysis in Software Engineering  
+- A Comprehensive Review of Datasets and Preprocessing Techniques in Deep Learning-Based Breast Cancer Classification  
+- Respectful Social Engagement: Facebook Hate Speech Classification for Bengali Language  
+
+🔗 **Google Scholar:** https://scholar.google.com/citations?user=rHqGuCoAAAAJ  
+📌 **3+ peer-reviewed publications**
 
 ---
 
 ## 📂 Featured Research Projects
-🔹 **Breast Cancer Classification (Medical Imaging)**  
+
+### 🔹 Breast Cancer Classification (Medical Imaging)
 Deep learning-based breast cancer classification using mammogram datasets, focusing on preprocessing pipelines, model benchmarking, interpretability, and reproducibility.
 
-🔹 **NLP & LLM Experiments**  
+### 🔹 NLP & LLM Experiments
 Empirical evaluation of zero-shot, few-shot, and fine-tuned large language models for sentiment analysis, hate speech detection, and ethical AI applications.
 
 ---
 
 ## 🌐 Connect With Me
-- LinkedIn: https://linkedin.com/in/asharmincs
-- Google Scholar: https://scholar.google.com/citations?user=rHqGuCoAAAAJ
-- Email: asharmin.cs@gmail.com
+- **LinkedIn:** https://linkedin.com/in/asharmincs  
+- **Google Scholar:** https://scholar.google.com/citations?user=rHqGuCoAAAAJ  
+- **Email:** asharmin.cs@gmail.com
