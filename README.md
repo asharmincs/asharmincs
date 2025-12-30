@@ -4,7 +4,7 @@
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 - Deep Learning for Medical Imaging
 - Breast Cancer Classification
 - Bioinformatics & Computational Biology
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Core Expertise
+## Core Expertise
 - Machine Learning, Deep Learning, Artificial Intelligence
 - High-Dimensional Data Analysis & Feature Engineering
 - Experimental Design & Statistical Analysis
@@ -23,7 +23,7 @@
 
 ---
 
-## 💻 Technical Skills
+##  Technical Skills
 - **Languages & ML:** Python, PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, LightGBM  
 - **NLP & LLMs:** Large Language Models (LLMs), Prompt Engineering, SpaCy, NLTK  
 - **Biomedical & Data Analysis:** Pandas, NumPy, Biopython, Medical Image Preprocessing  
@@ -32,7 +32,7 @@
 
 ---
 
-## 📄 Publications
+##  Publications
 - Comprehensive Performance Evaluation of Deep Learning Models for Optimizing Breast Cancer Classification on Mammogram Datasets  
 - An Empirical Evaluation of Zero-Shot, Few-Shot, and Fine-Tuned Pretrained Language Models for Sentiment Analysis in Software Engineering  
 - A Comprehensive Review of Datasets and Preprocessing Techniques in Deep Learning-Based Breast Cancer Classification  
@@ -43,12 +43,12 @@
 
 ---
 
-## 📂 Featured Research Projects
+## Featured Research Projects
 
-### 🔹 Breast Cancer Classification (Medical Imaging)
+### Breast Cancer Classification (Medical Imaging)
 Deep learning-based breast cancer classification using mammogram datasets, focusing on preprocessing pipelines, model benchmarking, interpretability, and reproducibility.
 
-### 🔹 NLP & LLM Experiments
+### NLP & LLM Experiments
 Empirical evaluation of zero-shot, few-shot, and fine-tuned large language models for sentiment analysis, hate speech detection, and ethical AI applications.
 
 ---
