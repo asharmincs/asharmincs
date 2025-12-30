@@ -1,8 +1,6 @@
-# Hi, I'm Sharmin Akhter.
+# Hi, I'm Sharmin Akhter
 
-**Machine Learning & Deep Learning Researcher | Bioinformatics | NLP & LLMs**
-
-Research-driven professional with 5+ years of experience in machine learning, deep learning, AI, and bioinformatics, specializing in biomedical applications, medical imaging analysis, and natural language processing. My work focuses on developing reproducible, high-impact computational methods to advance cancer diagnostics, healthcare AI, and responsible NLP systems.
+**Research scientist | Machine Learning & Deep Learning Researcher | Bioinformatics | NLP & LLMs, focused on advancing cancer diagnostics using computational methods, deep learning, and medical imaging analysis.**
 
 ---
 
@@ -40,7 +38,7 @@ Research-driven professional with 5+ years of experience in machine learning, de
 - A Comprehensive Review of Datasets and Preprocessing Techniques in Deep Learning-Based Breast Cancer Classification  
 - Respectful Social Engagement: Facebook Hate Speech Classification for Bengali Language  
 
-🔗 **Google Scholar:** https://scholar.google.com/citations?user=rHqGuCoAAAAJ  
+🔗 **Google Scholar:** [Link](https://scholar.google.com/citations?user=rHqGuCoAAAAJ)  
 📌 **3+ peer-reviewed publications**
 
 ---
@@ -56,6 +54,6 @@ Empirical evaluation of zero-shot, few-shot, and fine-tuned large language model
 ---
 
 ## 🌐 Connect With Me
-- **LinkedIn:** https://linkedin.com/in/asharmincs  
-- **Google Scholar:** https://scholar.google.com/citations?user=rHqGuCoAAAAJ  
+- **LinkedIn:** [Link](https://linkedin.com/in/asharmincs)  
+- **Google Scholar:** [Link](https://scholar.google.com/citations?user=rHqGuCoAAAAJ)  
 - **Email:** asharmin.cs@gmail.com
