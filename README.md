@@ -1,6 +1,6 @@
 # Hi, I'm Sharmin Akhter
 
-**Research scientist | Machine Learning & Deep Learning Researcher | Bioinformatics | NLP & LLMs, focused on advancing cancer diagnostics using computational methods, deep learning, and medical imaging analysis.**
+**Research scientist | Image Analyst | Machine Learning | Computer Vision | Deep Learning | AI | Bioinformatics | NLP & LLMs | Focused on advancing cancer diagnostics using computational methods, deep learning, and medical imaging analysis.**
 
 ---
 
